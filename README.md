@@ -19,6 +19,6 @@ The stages of this project consist of 6 stages starting from data collection, da
 
 </center>
 
-Full code of this project at here [full code](https://github.com/WiseStar282/Pneumonia-classification/blob/main/Pneumonia%20Classification%20VGG%2BSVM-.ipynb)
+Full code of this project at here [full code](https://github.com/WiseStar282/random-forest-with-GA/blob/main/Hyperparameter%20Tuning%20RF%20with%20GA%20.ipynb)
 
 You also can see my article about this at here [medium.com](https://medium.com/@ahmadbintangarif/classification-of-pneumonia-diseases-using-a-combination-of-vgg-16-and-support-vector-machine-e14f8adf8d3e)
