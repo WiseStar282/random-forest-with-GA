@@ -20,5 +20,5 @@ The stages of this project consist of 6 stages starting from data collection, da
 </center>
 
 Full code of this project at here [full code](https://github.com/WiseStar282/random-forest-with-GA/blob/main/Hyperparameter%20Tuning%20RF%20with%20GA%20.ipynb)
-
+See my article at here [article]('https://medium.com/@ahmadbintangarif/optimizing-random-forest-for-heart-disease-classification-using-genetic-algorithms-4a350fe60bd2')
 
